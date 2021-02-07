@@ -1,0 +1,11 @@
+.app {
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 2em;
+  background-color: rgb(240, 241, 241);
+}
+
+.app img {
+  max-width: 150px;
+}
