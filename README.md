@@ -1,40 +1,48 @@
-# Github Api 
+## About the project
 
- You can use the search bar to find repositories on Github with some keywords.
- While loading, spinners appears on the search bar / button to see more. 
+This project is an application to find repositories on Github, using the Github API. 
+You can see 9 results and load more if you want to. 
  
+<img src="resultat.png">
 
----
-## Stack : 
+### Built with 
 
-- Javascript with React
-- Semantic UI 
-- Webpack 
-- Babel 
+* Javascript with React
+* Semantic UI 
+* Webpack 
+* Babel 
+* Github API
 
----
-## V2
+
+### V2
 
 - Skeleton screen while loading results
 
----
-## Try it 
+<!-- GETTING STARTED -->
+## Getting Started
 
-If you want to try my application, you can :
+To get a local copy up and running follow these simple steps.
 
-```
+### Installation
+
+1. Clone the repo
+```sh
 git clone git@github.com:mariemorisi/github-api.git
 ```
 
-Install all the dependencies with NPM or Yarn and run the application 
+2. Install all the dependencies with NPM or Yarn and run the application 
 
 > Yarn :
-```
+```sh
 yarn 
 yarn start 
 ```
 > NPM : 
-```
+```sh
 npm i
 npm start
 ```
+
+## Contact
+
+Marie Morisi - m_morisi@yahoo.fr
